@@ -13,7 +13,7 @@ Esse projeto foi desenvolvindo com as seguintes tecnologias:
 
 para clonar essa aplicação, é necessário que você tenha o [Git](https://git-scm.com/) instalado no seu computador.
 
- Para executa-lo, basta que você tenha o python 3 instalado no seu desktop e digite o comando "python3 <nomeDoArquivo>" no seu prompt de comando
+ Para executa-lo, basta que você tenha o python 3 instalado no seu desktop e digite o comando "python3 'nome-do-arquivo'" no seu prompt de comando
 
 ```
 # Clone esse repositório
